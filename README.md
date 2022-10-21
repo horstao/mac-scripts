@@ -10,10 +10,9 @@
 
 ```
 brew install fortune cowsay wget htop zsh-syntax-highlighting
-brew install --cask spectacle
 ```
 
-### 3 - Install iTerm
+### 3 - Install iTerm2
 https://iterm2.com/
 
 
@@ -32,7 +31,7 @@ https://iterm2.com/
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-### 6 - Configure Oh-My-Zsh
+### 6 - Configure Oh-My-Zsh and Powerlevel10K
 
 ```bash
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
