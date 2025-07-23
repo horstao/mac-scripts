@@ -1,3 +1,5 @@
+# Bypass Macbook Thermal Throttle on Ubuntu 24.04 LTS
+
 # Install the dependencies
 # sudo apt install msr-tools mbpfan cpufrequtils
 
