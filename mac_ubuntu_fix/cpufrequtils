@@ -1,0 +1,3 @@
+GOVERNOR="conservative"
+MIN_SPEED="1.6GHz"
+MAX_SPEED="2.2GHz"
